@@ -1,0 +1,15 @@
+.style1 {
+  color: red;
+  text-align: center;
+  border-radius: 25% 10%;
+}
+.style2 {
+  color: blue;
+  text-align: center;
+}
+img {
+  text-align: center;
+}
+div {
+  border: thick double #32a1ce;
+}
